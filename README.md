@@ -1,7 +1,7 @@
 # 9room-FrontEnd-PBL
-구름톤 트레이닝을 진행하며 해결한 프론트엔드 PBL입니다.
+구름톤 트레이닝을 진행하며 해결한 프론트엔드 PBL 모음 저장소 입니다.
 
-## TodoApp 만들기 - PBL
+## GitHubFinder 만들기 - PBL
 https://changminpark2.github.io/9oorm-GitHubFinder-PBL/GithubFinder/
 
 ### 수행기간
