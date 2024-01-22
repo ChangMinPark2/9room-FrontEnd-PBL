@@ -25,7 +25,7 @@ https://changminpark2.github.io/9oorm-TodoApp-PBL/
 <br><br>
 
 ## [03] GitHubFinder 만들기 - PBL
-https://changminpark2.github.io/JavaScript-A-Z/spreadsheet/
+https://changminpark2.github.io/9oorm-GitHubFinder-PBL/GithubFinder/
 
 ### 수행기간
 * 24.01.15 ~ 24.01.17
@@ -35,7 +35,7 @@ https://changminpark2.github.io/JavaScript-A-Z/spreadsheet/
 <br><br>
 
 ## [04] SpreadSheet 만들기 - PBL
-https://changminpark2.github.io/9oorm-GitHubFinder-PBL/GithubFinder/
+https://changminpark2.github.io/JavaScript-A-Z/spreadsheet/
 
 ### 수행기간
 * 24.01.18 ~ 24.01.22
