@@ -44,6 +44,16 @@ https://changminpark2.github.io/JavaScript-A-Z/spreadsheet/
 * 현재 focus 된 위쪽 헤더 왼쪽 헤더가 함께 하늘색으로 하이라이트 되게 해 줍니다.
 * 작성된 모든 데이터들을 ExportSpreedSheet 버튼을 눌러 Excel파일로 생성합니다.
 * 생성된 Excel 파일을 구글로 SpreedSheet 에서 import 하면 같은 데이터가 나오게 합니다. 
-<br>
+<br><br>
+
+## [05] 리액트를 이용해서 CRUD 앱 만들기 - PBL
+
+### 수행기간
+* 24.01.30 ~ 24.02.01
+
+### 하위과제
+* 최대한 컴포넌트를 나눠서 구현합니다.
+* 폴더 이름 및 변수 이름을 명확하게 작성합니다.
+
 
 
