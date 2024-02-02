@@ -55,6 +55,18 @@ https://changminpark2.github.io/React-A-Z/calculator-crud-app/
 ### 하위과제
 * 최대한 컴포넌트를 나눠서 구현합니다.
 * 폴더 이름 및 변수 이름을 명확하게 작성합니다.
+<br><br>
+
+## [06] 리액트를 이용해서 쇼핑몰 앱 만들기 - PBL
+https://changminpark2.github.io/9oorm-ShoppingMall-PBL/
+
+### 수행기간
+* 24.02.02 ~ 24.02.06
+
+### 하위과제
+* 리덕스와 같은 상태 관리 라이브러리를 이용해서 상태를 관리합니다.
+* 선택 사항으로 타입스크립트를 이용해서 구현해봅니다.
+* 상품 데이터는 fakestoreapi 를 이용해서 구현할 수 있습니다. (예를 들어서 상품들을 가져오려면 HTTP GET https://fakestoreapi.com/products)
 
 
 
