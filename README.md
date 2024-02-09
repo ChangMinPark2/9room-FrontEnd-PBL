@@ -68,5 +68,8 @@ https://changminpark2.github.io/9oorm-ShoppingMall-PBL/
 * 선택 사항으로 타입스크립트를 이용해서 구현해봅니다.
 * 상품 데이터는 fakestoreapi 를 이용해서 구현할 수 있습니다. (예를 들어서 상품들을 가져오려면 HTTP GET https://fakestoreapi.com/products)
 
+## [07] 리액트를 이용해서 노트 앱 만들기 - PBL
+
+
 
 
